@@ -30,7 +30,7 @@
 
 <p align="center">
  
-377 / 5.000
+
 Esta API .NET Core foi projetada para servir dados formatados em JSON sobre chefes da série Mega Man. É um serviço de backend criado com .NET Core 3.1 e várias dependências modernas para gerenciamento de dados e tratamento de resposta de API.
 
 Desenvolvido com Entity Framework Core e outras tecnologias .NET modernas, este projeto visa fornecer uma API robusta para acessar dados de robôs Mega Man.
